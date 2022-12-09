@@ -1,0 +1,2830 @@
+[
+    {
+        "id": 0,
+        "img_labels": {
+            "objects": [
+                "clouds",
+                "road",
+                "hill"
+            ],
+            "scenes": [
+                "time",
+                "life",
+                "land"
+            ],
+            "sentiments": [
+                "bright",
+                "little",
+                "old"
+            ]
+        },
+        "poem": "Thus do I lead a splended Life,\nunder a Garden Pillow and Knife;\nMy Infancy, which gives me the little\nAdvance to Pardon.",
+        "rhymes": [
+            "life",
+            "knife",
+            "little",
+            "acquittal"
+        ],
+        "url": "https://farm1.staticflickr.com/27/38083986_74ab96483a.jpg"
+    },
+    {
+        "id": 1,
+        "img_labels": {
+            "objects": [
+                "earth",
+                "wind",
+                "leaves"
+            ],
+            "scenes": [
+                "time",
+                "night",
+                "summer"
+            ],
+            "sentiments": [
+                "last",
+                "bright",
+                "old"
+            ]
+        },
+        "poem": "that it may please the whole globe.\nif it be a cold Frosty night,\nOr helpe at the thought of a job,Helps mee to prate and prattle my job\ntis good I am upright;",
+        "rhymes": [
+            "globe",
+            "night",
+            "job",
+            "upright"
+        ],
+        "url": "https://farm3.staticflickr.com/2685/4328135908_2c1337abc8.jpg"
+    },
+    {
+        "id": 2,
+        "img_labels": {
+            "objects": [
+                "wind",
+                "feet",
+                "earth"
+            ],
+            "scenes": [
+                "time",
+                "night",
+                "silence"
+            ],
+            "sentiments": [
+                "last",
+                "bright",
+                "golden"
+            ]
+        },
+        "poem": "and with a prosperous gale of wind,\nThe fame of these brothers may be pinned\nso long as the world do's not roll.\nPHillis did sail up to Sir Hugh Hollis",
+        "rhymes": [
+            "wind",
+            "pinned",
+            "roll",
+            "knoll"
+        ],
+        "url": "https://farm4.staticflickr.com/3285/2864255781_6071ca9589.jpg"
+    },
+    {
+        "id": 3,
+        "img_labels": {
+            "objects": [
+                "snow",
+                "light",
+                "earth"
+            ],
+            "scenes": [
+                "time",
+                "day",
+                "eyes"
+            ],
+            "sentiments": [
+                "own",
+                "green",
+                "golden"
+            ]
+        },
+        "poem": "to shape this Gown of Green.\nBut if thou wilt go home, and get some Land,\nand live in peace and in cheifest Pau,\nI'll take a Cup of the best sache  in the gland;",
+        "rhymes": [
+            "green",
+            "land",
+            "deveau",
+            "gland"
+        ],
+        "url": "https://farm1.staticflickr.com/50/145415954_a3434fb7d5.jpg"
+    },
+    {
+        "id": 4,
+        "img_labels": {
+            "objects": [
+                "sky",
+                "earth",
+                "flower"
+            ],
+            "scenes": [
+                "time",
+                "love",
+                "days"
+            ],
+            "sentiments": [
+                "golden",
+                "own",
+                "great"
+            ]
+        },
+        "poem": "where I never was many days:The Roses and the Lillies that were so fair in their days,\ndid then appear as a dainty and flower;\nAll the whole Plain, and every Hour",
+        "rhymes": [
+            "days",
+            "flower",
+            "day's",
+            "hour"
+        ],
+        "url": "https://farm9.staticflickr.com/8016/7424640662_9b700d29f1.jpg"
+    },
+    {
+        "id": 5,
+        "img_labels": {
+            "objects": [
+                "earth",
+                "wind",
+                "trees"
+            ],
+            "scenes": [
+                "heart",
+                "love",
+                "morning"
+            ],
+            "sentiments": [
+                "great",
+                "own",
+                "last"
+            ]
+        },
+        "poem": "And some that can see the Wood from the Trees,\nSay, this new Top-knot is costly to know,?\n??o high Degree of specialization;)\nIt runs in several Ways and Fits for the Fountains flow",
+        "rhymes": [
+            "trees",
+            "know",
+            "expertise",
+            "flow"
+        ],
+        "url": "https://farm1.staticflickr.com/353/18746900786_f3e5f092da.jpg"
+    },
+    {
+        "id": 6,
+        "img_labels": {
+            "objects": [
+                "grass",
+                "soul",
+                "light"
+            ],
+            "scenes": [
+                "love",
+                "time",
+                "night"
+            ],
+            "sentiments": [
+                "green",
+                "bright",
+                "last"
+            ]
+        },
+        "poem": "And yet I conceive I could survive,\nA more obedient Lass, none could ere denounce\nMy Heart-strings soft, and I'me so mixt, am quite\nIn honour of my Maiden-head to bounce.",
+        "rhymes": [
+            "survive",
+            "denounce",
+            "quite",
+            "bounce"
+        ],
+        "url": "https://farm2.staticflickr.com/1323/1258901336_c31155b0bd.jpg"
+    },
+    {
+        "id": 7,
+        "img_labels": {
+            "objects": [
+                "light",
+                "trees",
+                "flower"
+            ],
+            "scenes": [
+                "eyes",
+                "day",
+                "night"
+            ],
+            "sentiments": [
+                "bright",
+                "old",
+                "own"
+            ]
+        },
+        "poem": "now pale and dazie light,\nFor Jemmy the Miller he did fight\nall Night, and many a Day;\nWhilst he poor Sawny did take his Allay",
+        "rhymes": [
+            "light",
+            "fight",
+            "day",
+            "allay"
+        ],
+        "url": "https://farm5.staticflickr.com/4029/4667919461_de174bcc3b.jpg"
+    },
+    {
+        "id": 8,
+        "img_labels": {
+            "objects": [
+                "earth",
+                "rain",
+                "wind"
+            ],
+            "scenes": [
+                "time",
+                "heart",
+                "night"
+            ],
+            "sentiments": [
+                "little",
+                "last",
+                "golden"
+            ]
+        },
+        "poem": "The Diamond not hight the Diamond centre,\nbecause it is so small and so golden.\nLet husbands that are matcht to menttal mentors\nbe wise, and prepare their wifes with telse old",
+        "rhymes": [
+            "centre",
+            "golden",
+            "mentor",
+            "olden"
+        ],
+        "url": "https://farm1.staticflickr.com/106/315642394_00808416a5.jpg"
+    },
+    {
+        "id": 9,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "sun",
+                "rain"
+            ],
+            "scenes": [
+                "morning",
+                "life",
+                "eyes"
+            ],
+            "sentiments": [
+                "bright",
+                "good",
+                "great"
+            ]
+        },
+        "poem": "Then as the Sun-shine does allow,\nand with thy fair Eyes meet our bright;\nO, bring it full brilish, thou shaltow\nto drink some Fountain that's upright.",
+        "rhymes": [
+            "allow",
+            "bright",
+            "chow",
+            "upright"
+        ],
+        "url": "https://farm4.staticflickr.com/3608/3499455659_d58d70daa3.jpg"
+    },
+    {
+        "id": 10,
+        "img_labels": {
+            "objects": [
+                "shore",
+                "light",
+                "spray"
+            ],
+            "scenes": [
+                "day",
+                "silence",
+                "life"
+            ],
+            "sentiments": [
+                "little",
+                "more",
+                "great"
+            ]
+        },
+        "poem": "This is a strange and dismal life,\nwhich through the years hath bred much strife;\nAnd now in days of Yore, thought I, it's too light\nFor Angels to behold the Sun so bright.",
+        "rhymes": [
+            "life",
+            "strife",
+            "light",
+            "bright"
+        ],
+        "url": "https://farm1.staticflickr.com/17/20210013_2367cadbf6.jpg"
+    },
+    {
+        "id": 11,
+        "img_labels": {
+            "objects": [
+                "soul",
+                "earth",
+                "wind"
+            ],
+            "scenes": [
+                "night",
+                "heart",
+                "love"
+            ],
+            "sentiments": [
+                "little",
+                "bright",
+                "long"
+            ]
+        },
+        "poem": "A Raven, or a Goose, shall feed on my hump,\nOr else my poor heart will be turn'd to wind;\nBy such a peeping, my soul is slender, and small the whitten,?\nWhose eyes do link him with his, which doth bind",
+        "rhymes": [
+            "hump",
+            "wind",
+            "whittle",
+            "bind"
+        ],
+        "url": "https://farm5.staticflickr.com/4138/4778617045_d3ea15eb4d.jpg"
+    },
+    {
+        "id": 12,
+        "img_labels": {
+            "objects": [
+                "sky",
+                "leaves",
+                "snow"
+            ],
+            "scenes": [
+                "day",
+                "eyes",
+                "heart"
+            ],
+            "sentiments": [
+                "many",
+                "golden",
+                "green"
+            ]
+        },
+        "poem": "But wait a while my own dear Cloke, then quoth Cooke,\nI'll wake my self with sorrow pierc'd my heart;\nThen off from sleep I quickly would have woke\nWhich made the maidens groan in time to start.",
+        "rhymes": [
+            "coke",
+            "heart",
+            "woke",
+            "start"
+        ],
+        "url": "https://farm3.staticflickr.com/2258/2281406871_b58ef0eaf9.jpg"
+    },
+    {
+        "id": 13,
+        "img_labels": {
+            "objects": [
+                "light",
+                "rain",
+                "leaves"
+            ],
+            "scenes": [
+                "time",
+                "summer",
+                "night"
+            ],
+            "sentiments": [
+                "good",
+                "green",
+                "golden"
+            ]
+        },
+        "poem": "like Phoebus in his guilded jet;\nSaw you not Angels yet,\nfrom whence you may expect such Result?\nI never was of age, nor yet",
+        "rhymes": [
+            "jet",
+            "yet",
+            "result",
+            "adult"
+        ],
+        "url": "https://farm1.staticflickr.com/66/199277015_664e315a08.jpg"
+    },
+    {
+        "id": 14,
+        "img_labels": {
+            "objects": [
+                "trees",
+                "wind",
+                "grass"
+            ],
+            "scenes": [
+                "morning",
+                "life",
+                "silence"
+            ],
+            "sentiments": [
+                "green",
+                "golden",
+                "old"
+            ]
+        },
+        "poem": "Beware of a whole host of other thread,\nwhich are both wealthy, wise, and prosperous;\nBe rul'd by me, or else by combine\nyou quickly would transgress homo proprius.",
+        "rhymes": [
+            "thread",
+            "prosperous",
+            "combined",
+            "heterosporous"
+        ],
+        "url": "https://farm8.staticflickr.com/7170/6829451423_9fca341491.jpg"
+    },
+    {
+        "id": 15,
+        "img_labels": {
+            "objects": [
+                "sky",
+                "sun",
+                "flowers"
+            ],
+            "scenes": [
+                "heart",
+                "day",
+                "morning"
+            ],
+            "sentiments": [
+                "own",
+                "golden",
+                "great"
+            ]
+        },
+        "poem": "Each constituent part hath a delicate centre,\nin Love-sick lovers oft they toss;\nThe Groves are in use, the Flocks are inventor'd\nto bring them up by the Toney-",
+        "rhymes": [
+            "centre",
+            "toss",
+            "inventor",
+            "fone"
+        ],
+        "url": "https://farm8.staticflickr.com/7177/6954122658_7fc48fc5e7.jpg"
+    },
+    {
+        "id": 16,
+        "img_labels": {
+            "objects": [
+                "snow",
+                "earth",
+                "sun"
+            ],
+            "scenes": [
+                "summer",
+                "love",
+                "morning"
+            ],
+            "sentiments": [
+                "little",
+                "golden",
+                "bright"
+            ]
+        },
+        "poem": "as chast as Ice or snow;\nHer eyes like sparks of Diamond bright,\ncame gliding up and down thy toe-\nShe was not fickle, but would hold",
+        "rhymes": [
+            "snow",
+            "bright",
+            "toe",
+            "holden"
+        ],
+        "url": "https://farm1.staticflickr.com/108/286980971_37a0369ca4.jpg"
+    },
+    {
+        "id": 17,
+        "img_labels": {
+            "objects": [
+                "rain",
+                "sun",
+                "soul"
+            ],
+            "scenes": [
+                "dark",
+                "eyes",
+                "heart"
+            ],
+            "sentiments": [
+                "golden",
+                "last",
+                "good"
+            ]
+        },
+        "poem": "To entertaine this wofull Soul,\nThat sweares, but drops at last.\nWoe worth the time that is left oth whole\nthat for this good man's boy:Sweet Son, to thee I proffer'd, if thou wilt be your Son",
+        "rhymes": [
+            "soul",
+            "last",
+            "whole",
+            "son"
+        ],
+        "url": "https://farm1.staticflickr.com/24/43996309_9527f96ce6.jpg"
+    },
+    {
+        "id": 18,
+        "img_labels": {
+            "objects": [
+                "sky",
+                "grass",
+                "trees"
+            ],
+            "scenes": [
+                "time",
+                "morning",
+                "life"
+            ],
+            "sentiments": [
+                "great",
+                "little",
+                "long"
+            ]
+        },
+        "poem": "and the dew was on the grass,\nI sate downe by a Sicamore tree, near the water-side tree.\nMethought I heard a pretty little bass\nSing, Oh poor Colly, what shall I do je?",
+        "rhymes": [
+            "grass",
+            "tree",
+            "bass",
+            "je"
+        ],
+        "url": "https://farm1.staticflickr.com/131/352326034_ba98325161.jpg"
+    },
+    {
+        "id": 19,
+        "img_labels": {
+            "objects": [
+                "sun",
+                "sky",
+                "wind"
+            ],
+            "scenes": [
+                "life",
+                "day",
+                "eyes"
+            ],
+            "sentiments": [
+                "bright",
+                "own",
+                "many"
+            ]
+        },
+        "poem": "and I being Watch-men many,\nI'll be ready to guide the Wind\nif necessity gives me any;\nFor I was Reconciled once to be Redefined",
+        "rhymes": [
+            "many",
+            "wind",
+            "any",
+            "redefined"
+        ],
+        "url": "https://farm5.staticflickr.com/4028/4498111606_baac6fc748.jpg"
+    },
+    {
+        "id": 20,
+        "img_labels": {
+            "objects": [
+                "trees",
+                "grass",
+                "earth"
+            ],
+            "scenes": [
+                "morning",
+                "eyes",
+                "day"
+            ],
+            "sentiments": [
+                "good",
+                "golden",
+                "green"
+            ]
+        },
+        "poem": "Wisdomes great Meddow, that now is Morning,\nThat still doth look as Golden;\nSo farewell, farewell for mee warning.\nHare's the Groves, and every one from you",
+        "rhymes": [
+            "morning",
+            "golden",
+            "warning",
+            "youree"
+        ],
+        "url": "https://farm2.staticflickr.com/1082/574757210_0e4fb961db.jpg"
+    },
+    {
+        "id": 21,
+        "img_labels": {
+            "objects": [
+                "light",
+                "soul",
+                "sun"
+            ],
+            "scenes": [
+                "eyes",
+                "love",
+                "day"
+            ],
+            "sentiments": [
+                "little",
+                "last",
+                "golden"
+            ]
+        },
+        "poem": "Her eyes like the Diamonds of golden\nembracing the presence of the Sun,\nWhich cast a pall of shadow on the De'il\nand all the beauties of her that did adorn't",
+        "rhymes": [
+            "golden",
+            "sunlight",
+            "de",
+            "lignite"
+        ],
+        "url": "https://farm7.staticflickr.com/6017/5977973596_63257eb885.jpg"
+    },
+    {
+        "id": 22,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "grass",
+                "trees"
+            ],
+            "scenes": [
+                "day",
+                "life",
+                "time"
+            ],
+            "sentiments": [
+                "last",
+                "little",
+                "golden"
+            ]
+        },
+        "poem": "he lives upon the goodly leaves.\nA Garland of the fairest Leaves,\nshall adorn thy head with a fine fine Sasse\nIf thou art poor and shou'd wish for scold",
+        "rhymes": [
+            "leaves",
+            "golden",
+            "sasse",
+            "olden"
+        ],
+        "url": "https://farm6.staticflickr.com/5108/5597743936_01bb5273c2.jpg"
+    },
+    {
+        "id": 23,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "flowers",
+                "sun"
+            ],
+            "scenes": [
+                "love",
+                "life",
+                "silence"
+            ],
+            "sentiments": [
+                "good",
+                "green",
+                "golden"
+            ]
+        },
+        "poem": "I will venture my life\non the Gallow green\nIll forsake all care and strife,\nif thou wilt beg.",
+        "rhymes": [
+            "life",
+            "green",
+            "strife",
+            "begnaud"
+        ],
+        "url": "https://farm2.staticflickr.com/1143/1471324605_62948b0ca7.jpg"
+    },
+    {
+        "id": 24,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "wind",
+                "light"
+            ],
+            "scenes": [
+                "eyes",
+                "day",
+                "life"
+            ],
+            "sentiments": [
+                "bright",
+                "good",
+                "many"
+            ]
+        },
+        "poem": "If I had stood six Maids in the middle,\nI had put in my whistle and my violin knarf'd\nWhats louder then the sound of a violin bright.\nFain would I stay at home and play at the site",
+        "rhymes": [
+            "middle",
+            "fiddle",
+            "bright",
+            "site"
+        ],
+        "url": "https://farm4.staticflickr.com/3535/3245744764_edf5c2892f.jpg"
+    },
+    {
+        "id": 25,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "light",
+                "sun"
+            ],
+            "scenes": [
+                "time",
+                "life",
+                "heart"
+            ],
+            "sentiments": [
+                "great",
+                "many",
+                "good"
+            ]
+        },
+        "poem": "The Glow-worm in the dark gives light,\nAnd the Beauteous night-after-many\nTis light that comforts us, that we slight\nWhich makes us goe unto our plenty.",
+        "rhymes": [
+            "light",
+            "many",
+            "slight",
+            "plenty"
+        ],
+        "url": "https://farm5.staticflickr.com/4064/4418725793_e5635eac49.jpg"
+    },
+    {
+        "id": 26,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "soul",
+                "wind"
+            ],
+            "scenes": [
+                "eyes",
+                "days",
+                "love"
+            ],
+            "sentiments": [
+                "good",
+                "golden",
+                "old"
+            ]
+        },
+        "poem": "O wicked person,\nwhy dost thou call me mal?\nWhy doe thou so wilfully assarke\nmy soule and body? said no not yet backe and malche",
+        "rhymes": [
+            "somebody",
+            "malarkey",
+            "whole",
+            "lamarche"
+        ],
+        "url": "https://farm6.staticflickr.com/5569/14537418425_d80e6c2c2e.jpg"
+    },
+    {
+        "id": 27,
+        "img_labels": {
+            "objects": [
+                "water",
+                "light",
+                "sun"
+            ],
+            "scenes": [
+                "dark",
+                "love",
+                "morning"
+            ],
+            "sentiments": [
+                "golden",
+                "great",
+                "green"
+            ]
+        },
+        "poem": "I'll be your true Love,\nAnd we will be married on a Green.\nLike the kind innocent Turtle Dove\nSo many Lovers there are nineteen",
+        "rhymes": [
+            "love",
+            "green",
+            "dove",
+            "nineteen"
+        ],
+        "url": "https://farm4.staticflickr.com/3240/3009681619_121232e9cc.jpg"
+    },
+    {
+        "id": 28,
+        "img_labels": {
+            "objects": [
+                "wind",
+                "sky",
+                "sun"
+            ],
+            "scenes": [
+                "morning",
+                "eyes",
+                "day"
+            ],
+            "sentiments": [
+                "great",
+                "green",
+                "last"
+            ]
+        },
+        "poem": "and now to wear the willow green.\nA Life I led as long as the day,\nedging it was so obscene;\nBut now after much ponding andum insight",
+        "rhymes": [
+            "green",
+            "daylight",
+            "obscene",
+            "insight"
+        ],
+        "url": "https://farm1.staticflickr.com/107/316955104_524e85d09c.jpg"
+    },
+    {
+        "id": 29,
+        "img_labels": {
+            "objects": [
+                "rain",
+                "leaves",
+                "wind"
+            ],
+            "scenes": [
+                "day",
+                "days",
+                "life"
+            ],
+            "sentiments": [
+                "golden",
+                "great",
+                "own"
+            ]
+        },
+        "poem": "I'll be the same in life,\nWhen I am burgomaster'd that day\nthat knight and his maried wife.\nShe makes me the heel of the Parquet",
+        "rhymes": [
+            "life",
+            "day",
+            "wife",
+            "parquet"
+        ],
+        "url": "https://farm5.staticflickr.com/4073/4888857437_5956c3552b.jpg"
+    },
+    {
+        "id": 30,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "sun",
+                "earth"
+            ],
+            "scenes": [
+                "dark",
+                "morning",
+                "love"
+            ],
+            "sentiments": [
+                "great",
+                "old",
+                "own"
+            ]
+        },
+        "poem": "As I was walking one day round my Ground,\nI met with a Beautiful Wife, full Fourscore Years Old;\nHer Brother was the King of Lorn; which made a Hill\nFull of Flowers, and full of Pleasures: But Transported",
+        "rhymes": [
+            "ground",
+            "old",
+            "mound",
+            "transpark"
+        ],
+        "url": "https://farm1.staticflickr.com/85/274082354_a0e5fe71ab.jpg"
+    },
+    {
+        "id": 31,
+        "img_labels": {
+            "objects": [
+                "flower",
+                "sun",
+                "wind"
+            ],
+            "scenes": [
+                "love",
+                "silence",
+                "morning"
+            ],
+            "sentiments": [
+                "many",
+                "own",
+                "golden"
+            ]
+        },
+        "poem": "sunny, plump, and prosperous,\nSinging-Owl's like the Hive's golden\nwhich Flora in her Shower\nWith her hie Aire and Smock, looks old",
+        "rhymes": [
+            "prosperous",
+            "golden",
+            "bower",
+            "olden"
+        ],
+        "url": "https://farm4.staticflickr.com/3101/2808254764_29ac6541b7.jpg"
+    },
+    {
+        "id": 32,
+        "img_labels": {
+            "objects": [
+                "soul",
+                "wind",
+                "light"
+            ],
+            "scenes": [
+                "time",
+                "heart",
+                "days"
+            ],
+            "sentiments": [
+                "good",
+                "golden",
+                "last"
+            ]
+        },
+        "poem": "But now being turnd by fate of wind,\nLike an ambidextrous Swain in her web of twist;\nSighing at the thoughts of the Swaine, hind\nstill run rampant, and wisht I would",
+        "rhymes": [
+            "wind",
+            "twist",
+            "hind",
+            "would"
+        ],
+        "url": "https://farm1.staticflickr.com/201/550229959_442c952db2.jpg"
+    },
+    {
+        "id": 33,
+        "img_labels": {
+            "objects": [
+                "sun",
+                "trees",
+                "soul"
+            ],
+            "scenes": [
+                "time",
+                "eyes",
+                "dark"
+            ],
+            "sentiments": [
+                "own",
+                "good",
+                "great"
+            ]
+        },
+        "poem": "I stept into a hollow Tree,\nand there I lay all night in the dark;\nThen with my hook laid down on my knee\na Suit of her Gowns and Braces.",
+        "rhymes": [
+            "tree",
+            "dark",
+            "knee",
+            "hces"
+        ],
+        "url": "https://farm4.staticflickr.com/3209/2966588235_d8265ab1e8.jpg"
+    },
+    {
+        "id": 34,
+        "img_labels": {
+            "objects": [
+                "earth",
+                "trees",
+                "air"
+            ],
+            "scenes": [
+                "day",
+                "morning",
+                "night"
+            ],
+            "sentiments": [
+                "great",
+                "green",
+                "last"
+            ]
+        },
+        "poem": "tonight is the opening of the morning)\nI lowly bow'd to earth and earth,\nand all the mourning\nOf Daddies that hated rebirth.",
+        "rhymes": [
+            "morning",
+            "earth",
+            "mourning",
+            "rebirth"
+        ],
+        "url": "https://farm1.staticflickr.com/96/235010658_7d76eb044a.jpg"
+    },
+    {
+        "id": 35,
+        "img_labels": {
+            "objects": [
+                "earth",
+                "sky",
+                "flowers"
+            ],
+            "scenes": [
+                "love",
+                "day",
+                "silence"
+            ],
+            "sentiments": [
+                "green",
+                "many",
+                "own"
+            ]
+        },
+        "poem": "I'll send my love on earth and flowers,\nto wait on the Lord of heaven and earth.\nNo blessings from above, I see, from Gods such powers\nthe waters of the Sea, and the Huntsman Countrey",
+        "rhymes": [
+            "flowers",
+            "earth",
+            "powers",
+            "rey"
+        ],
+        "url": "https://farm4.staticflickr.com/3421/3729049796_7674555ed1.jpg"
+    },
+    {
+        "id": 36,
+        "img_labels": {
+            "objects": [
+                "light",
+                "flower",
+                "leaves"
+            ],
+            "scenes": [
+                "night",
+                "morning",
+                "heart"
+            ],
+            "sentiments": [
+                "good",
+                "bright",
+                "golden"
+            ]
+        },
+        "poem": "Wisely then preserve your heart,\ntake warning now I must leave.\nBeware of a thing that's overwrite\n(I fear too too young) for a naive",
+        "rhymes": [
+            "heart",
+            "leave",
+            "overwrite",
+            "naive"
+        ],
+        "url": "https://thepoetryofphotography.files.wordpress.com/2012/05/040912.jpg"
+    },
+    {
+        "id": 37,
+        "img_labels": {
+            "objects": [
+                "wind",
+                "grass",
+                "rain"
+            ],
+            "scenes": [
+                "eyes",
+                "summer",
+                "heart"
+            ],
+            "sentiments": [
+                "golden",
+                "many",
+                "great"
+            ]
+        },
+        "poem": "Laid down with a hundred and fifty Lasses with Eye,\nattached to Nannys Brow, the fairest in the centre;\nSat down upon the Marrow, to receive your Desser, Rye\nbrings out the Beams of Lillies Summer center.",
+        "rhymes": [
+            "eye",
+            "centre",
+            "rye",
+            "center"
+        ],
+        "url": "https://farm9.staticflickr.com/8514/28379547545_cfe5e31ba2.jpg"
+    },
+    {
+        "id": 38,
+        "img_labels": {
+            "objects": [
+                "wind",
+                "earth",
+                "light"
+            ],
+            "scenes": [
+                "life",
+                "day",
+                "eyes"
+            ],
+            "sentiments": [
+                "golden",
+                "bright",
+                "little"
+            ]
+        },
+        "poem": "like threads of gold so golden,\nBut now they are wavering like the wind\nmy love and I are grown old.\nIn youth my youth I did take delight",
+        "rhymes": [
+            "golden",
+            "wind",
+            "olden",
+            "delight"
+        ],
+        "url": "https://farm4.staticflickr.com/3444/3279470346_725b60f73b.jpg"
+    },
+    {
+        "id": 39,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "soul",
+                "rain"
+            ],
+            "scenes": [
+                "eyes",
+                "time",
+                "night"
+            ],
+            "sentiments": [
+                "great",
+                "green",
+                "bright"
+            ]
+        },
+        "poem": "Of all the Birds that Chirpt and took their leave,\nThis was the time that all People had good Night.\nA S I was on a journey, and at a landing\nThere I met a Nymph that was cozening & coald",
+        "rhymes": [
+            "leave",
+            "night",
+            "landing",
+            "alight"
+        ],
+        "url": "https://farm1.staticflickr.com/153/385110029_f399395117.jpg"
+    },
+    {
+        "id": 40,
+        "img_labels": {
+            "objects": [
+                "grass",
+                "trees",
+                "snow"
+            ],
+            "scenes": [
+                "time",
+                "night",
+                "day"
+            ],
+            "sentiments": [
+                "many",
+                "great",
+                "own"
+            ]
+        },
+        "poem": "The Farmer he said, that is my own,\nI have a spot upon the Grass;\nWhat is thy Name, said theSquire, or else Regaliz\na Name which shall go to Heaven with thy Brass?",
+        "rhymes": [
+            "own",
+            "grass",
+            "ortiz",
+            "brass"
+        ],
+        "url": "https://farm3.staticflickr.com/2567/4112717999_969eabbc71.jpg"
+    },
+    {
+        "id": 41,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "sky",
+                "trees"
+            ],
+            "scenes": [
+                "day",
+                "eyes",
+                "heart"
+            ],
+            "sentiments": [
+                "last",
+                "golden",
+                "own"
+            ]
+        },
+        "poem": "Three Castles in Sails, and three more in Gilt,\nAll with a fairfare of a Gown.\nAbove and beneath they rebuilt\nWhat e're was previous, now I",
+        "rhymes": [
+            "gilt",
+            "own",
+            "rebuilt",
+            "i"
+        ],
+        "url": "https://farm4.staticflickr.com/3040/2636293375_39d0b4f48c.jpg"
+    },
+    {
+        "id": 42,
+        "img_labels": {
+            "objects": [
+                "tree",
+                "sky",
+                "trees"
+            ],
+            "scenes": [
+                "morning",
+                "days",
+                "night"
+            ],
+            "sentiments": [
+                "last",
+                "golden",
+                "bright"
+            ]
+        },
+        "poem": "That surely lives in yon Tree,\nthat surely is more favorable\nThen the Bird that sings a Nona-busca-ba-\nsunny, plump, and never unfavorable.",
+        "rhymes": [
+            "tree",
+            "favorable",
+            "bua",
+            "unfavorable"
+        ],
+        "url": "https://connetta.files.wordpress.com/2007/09/458998315_206e020bba.jpg"
+    },
+    {
+        "id": 43,
+        "img_labels": {
+            "objects": [
+                "earth",
+                "trees",
+                "wind"
+            ],
+            "scenes": [
+                "silence",
+                "love",
+                "dark"
+            ],
+            "sentiments": [
+                "green",
+                "golden",
+                "bright"
+            ]
+        },
+        "poem": "No man said she more false on earth,\nby trotting foot it is in the wind.\nIf she that was love-sick, and not worth\n aging, when she is marry'd young and old;",
+        "rhymes": [
+            "earth",
+            "wind",
+            "worth",
+            "old"
+        ],
+        "url": "https://farm5.staticflickr.com/4011/4373007896_5ca738a0d8.jpg"
+    },
+    {
+        "id": 44,
+        "img_labels": {
+            "objects": [
+                "wind",
+                "sun",
+                "leaves"
+            ],
+            "scenes": [
+                "heart",
+                "night",
+                "life"
+            ],
+            "sentiments": [
+                "green",
+                "bright",
+                "great"
+            ]
+        },
+        "poem": "I laid her down upon the leaves,\nAnd mourned for her all my life;\nWhen she did courter, Iump, and bulump\nFor the love of my waiting Wife.",
+        "rhymes": [
+            "leaves",
+            "life",
+            "klump",
+            "wife"
+        ],
+        "url": "https://farm2.staticflickr.com/1318/793172406_dbd12afd06.jpg"
+    },
+    {
+        "id": 45,
+        "img_labels": {
+            "objects": [
+                "soul",
+                "rain",
+                "wind"
+            ],
+            "scenes": [
+                "dark",
+                "time",
+                "heart"
+            ],
+            "sentiments": [
+                "good",
+                "green",
+                "golden"
+            ]
+        },
+        "poem": "doth the poor soul good,\nBut it's happy the soul\nthat enjoys so good a merc\nSo freely lets drink a Bowl",
+        "rhymes": [
+            "good",
+            "soul",
+            "merc",
+            "bowl"
+        ],
+        "url": "https://farm1.staticflickr.com/1/701340_fcce8436b2.jpg"
+    },
+    {
+        "id": 46,
+        "img_labels": {
+            "objects": [
+                "wind",
+                "flowers",
+                "trees"
+            ],
+            "scenes": [
+                "silence",
+                "dark",
+                "day"
+            ],
+            "sentiments": [
+                "good",
+                "bright",
+                "old"
+            ]
+        },
+        "poem": "well may they doe their business good,\nWhilst under the shady trees you flowers\nmy love and I are one and you.\nWhen thus we had dropt deeply engaged in embroiled",
+        "rhymes": [
+            "good",
+            "flowers",
+            "you'd",
+            "embroiled"
+        ],
+        "url": "https://farm4.staticflickr.com/3499/3204509773_aac5498f6d.jpg"
+    },
+    {
+        "id": 47,
+        "img_labels": {
+            "objects": [
+                "light",
+                "wind",
+                "earth"
+            ],
+            "scenes": [
+                "dark",
+                "morning",
+                "nature"
+            ],
+            "sentiments": [
+                "little",
+                "great",
+                "own"
+            ]
+        },
+        "poem": "The sixth of these my Articles thou shalt have,\nThirsis may take them at face value, but what is great\nPopulation, Riches, Honour, Peace, Banners fluency.\nThese are the only things that the King of Kings shall dictate",
+        "rhymes": [
+            "have",
+            "great",
+            "ubiquity",
+            "dictate"
+        ],
+        "url": "https://farm9.staticflickr.com/8399/8939985374_dba34acf90.jpg"
+    },
+    {
+        "id": 48,
+        "img_labels": {
+            "objects": [
+                "light",
+                "earth",
+                "trees"
+            ],
+            "scenes": [
+                "day",
+                "dark",
+                "eyes"
+            ],
+            "sentiments": [
+                "old",
+                "little",
+                "last"
+            ]
+        },
+        "poem": "Do you think that I will Marry a Scold,\nI know not how to doe in the least, sometimes\nIde have you now, what shall we do\nwith our sweet-hearts the same longetime",
+        "rhymes": [
+            "old",
+            "sometime",
+            "dovey",
+            "longtime"
+        ],
+        "url": "https://farm1.staticflickr.com/13/14590680_bc611e8526.jpg"
+    },
+    {
+        "id": 49,
+        "img_labels": {
+            "objects": [
+                "sky",
+                "wind",
+                "grass"
+            ],
+            "scenes": [
+                "love",
+                "dark",
+                "morning"
+            ],
+            "sentiments": [
+                "own",
+                "golden",
+                "green"
+            ]
+        },
+        "poem": "With a gentle breeze of angelic wind,\ncast down thyrays which lye all night\nAnd make thy Phillis jealous that of me\nso beautiful as any paradigm.",
+        "rhymes": [
+            "wind",
+            "nighttime",
+            "melloan",
+            "paradigm"
+        ],
+        "url": "https://farm1.staticflickr.com/8/10722101_9b80b13595.jpg"
+    },
+    {
+        "id": 50,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "sun",
+                "earth"
+            ],
+            "scenes": [
+                "dark",
+                "heart",
+                "day"
+            ],
+            "sentiments": [
+                "bright",
+                "own",
+                "great"
+            ]
+        },
+        "poem": "and with a true loving heart,\nServe ye the Sun, Moon and Leaves.\nthe modifi'd party, Ill impart\nAnd let them know that I am Baptiz'd",
+        "rhymes": [
+            "heart",
+            "leaves",
+            "impart",
+            "baptismal"
+        ],
+        "url": "https://farm8.staticflickr.com/7736/26831349990_9dafe93f4a.jpg"
+    },
+    {
+        "id": 51,
+        "img_labels": {
+            "objects": [
+                "water",
+                "rain",
+                "light"
+            ],
+            "scenes": [
+                "day",
+                "heart",
+                "life"
+            ],
+            "sentiments": [
+                "old",
+                "bright",
+                "golden"
+            ]
+        },
+        "poem": "which are more faire and more golden,\nThen all the Moors of Bristow, or the Rain\nof Cromwels great Building old.\nAs they passe along in this Lady's Lane",
+        "rhymes": [
+            "golden",
+            "rain",
+            "olden",
+            "lane"
+        ],
+        "url": "https://farm1.staticflickr.com/109/366330533_82724b8b91.jpg"
+    },
+    {
+        "id": 52,
+        "img_labels": {
+            "objects": [
+                "flower",
+                "leaves",
+                "sun"
+            ],
+            "scenes": [
+                "silence",
+                "life",
+                "dark"
+            ],
+            "sentiments": [
+                "own",
+                "bright",
+                "green"
+            ]
+        },
+        "poem": "For thou shalt have food for to nourish thy life,\nAnd God will provide for thy Children and wife.\nCome all you forsaken, and be ruled by my own\nIf you will but listen to my moan;",
+        "rhymes": [
+            "life",
+            "wife",
+            "own",
+            "moan"
+        ],
+        "url": "https://farm1.staticflickr.com/6/5883972_b7cd08992a.jpg"
+    },
+    {
+        "id": 53,
+        "img_labels": {
+            "objects": [
+                "sky",
+                "light",
+                "sun"
+            ],
+            "scenes": [
+                "morning",
+                "dark",
+                "day"
+            ],
+            "sentiments": [
+                "little",
+                "green",
+                "great"
+            ]
+        },
+        "poem": "Jupiter being in the sign of the Sun,\ncame to present the month of Trinity:Then looking towards the morning Sun;\nHe drew his Bow, and hir'd his Dart streight to pritty Clarret:But Musgrave perceiving his passion would soon be carbines,",
+        "rhymes": [
+            "sun",
+            "sunshine",
+            "strey",
+            "carbine"
+        ],
+        "url": "https://farm1.staticflickr.com/65/164788158_e093111f19.jpg"
+    },
+    {
+        "id": 54,
+        "img_labels": {
+            "objects": [
+                "wind",
+                "leaves",
+                "sun"
+            ],
+            "scenes": [
+                "night",
+                "life",
+                "morning"
+            ],
+            "sentiments": [
+                "many",
+                "little",
+                "great"
+            ]
+        },
+        "poem": "The heat of her Buttocks so great,\nthat it almost killed her that night\nShe thought it strange the fates did notait\non this spot to lye a site.",
+        "rhymes": [
+            "great",
+            "night",
+            "gait",
+            "site"
+        ],
+        "url": "https://farm3.staticflickr.com/2607/3665322676_92e23087e7.jpg"
+    },
+    {
+        "id": 55,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "light",
+                "air"
+            ],
+            "scenes": [
+                "days",
+                "life",
+                "time"
+            ],
+            "sentiments": [
+                "good",
+                "last",
+                "bright"
+            ]
+        },
+        "poem": "My time is at hand, whilst I wait at last.\nI will do my best work both noble and upright,\nTo get my hands in the pies, and off their sides as lime\nAs long as I have a chance to sport and to bite;",
+        "rhymes": [
+            "last",
+            "upright",
+            "lime",
+            "bite"
+        ],
+        "url": "https://thepoetryofphotography.files.wordpress.com/2015/10/102514.jpg"
+    },
+    {
+        "id": 56,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "earth",
+                "wind"
+            ],
+            "scenes": [
+                "eyes",
+                "night",
+                "time"
+            ],
+            "sentiments": [
+                "long",
+                "little",
+                "great"
+            ]
+        },
+        "poem": "The little Kid that thought him so nifty,\nGave a blobber of Blisters in his Eyes.\nAnd up the Devil came with a Congger and a\nWhistle that a Cure he could devise",
+        "rhymes": [
+            "nifty",
+            "eyes",
+            "cong",
+            "devise"
+        ],
+        "url": "https://farm4.staticflickr.com/3162/3080340780_c529e668bf.jpg"
+    },
+    {
+        "id": 57,
+        "img_labels": {
+            "objects": [
+                "sun",
+                "rain",
+                "trees"
+            ],
+            "scenes": [
+                "day",
+                "eyes",
+                "love"
+            ],
+            "sentiments": [
+                "bright",
+                "little",
+                "many"
+            ]
+        },
+        "poem": "Then count me all, both great and little,\nfor pretty looks are the best mates love\nBut you may find some counsell to help it\nIf youve got a good Estate, God bless it above",
+        "rhymes": [
+            "little",
+            "love",
+            "it'll",
+            "above"
+        ],
+        "url": "https://farm8.staticflickr.com/7093/7212383874_b3d7540c60.jpg"
+    },
+    {
+        "id": 58,
+        "img_labels": {
+            "objects": [
+                "sun",
+                "grass",
+                "light"
+            ],
+            "scenes": [
+                "dark",
+                "time",
+                "eyes"
+            ],
+            "sentiments": [
+                "own",
+                "green",
+                "golden"
+            ]
+        },
+        "poem": "Jupiter first the Sun,\nhel pusht a Loon out of the Light.\nWho got his Living by Drolls and fun\nThrough age the Moone doth gabble and dlime",
+        "rhymes": [
+            "sun",
+            "light",
+            "fun",
+            "chime"
+        ],
+        "url": "https://farm1.staticflickr.com/54/159353410_c8d75b96c1.jpg"
+    },
+    {
+        "id": 59,
+        "img_labels": {
+            "objects": [
+                "light",
+                "sun",
+                "soul"
+            ],
+            "scenes": [
+                "day",
+                "dark",
+                "night"
+            ],
+            "sentiments": [
+                "little",
+                "own",
+                "last"
+            ]
+        },
+        "poem": "To entertaine each gallant soule, with a comly Soul,\nNo better way then can young-men have\nThis blith and bonny Lass, to rolle her Rock\nand roll her company to j indict",
+        "rhymes": [
+            "soul",
+            "have",
+            "rock-and-roll",
+            "indict"
+        ],
+        "url": "https://farm6.staticflickr.com/5247/5291324750_5b3f559eab.jpg"
+    },
+    {
+        "id": 60,
+        "img_labels": {
+            "objects": [
+                "light",
+                "earth",
+                "rain"
+            ],
+            "scenes": [
+                "heart",
+                "summer",
+                "night"
+            ],
+            "sentiments": [
+                "little",
+                "green",
+                "great"
+            ]
+        },
+        "poem": "Then the young man was skil'd by the soft,\nand cool'd down the Summer with a rainy rainfall,?\nThe heat of her Buttocks made her Brandy Br Bree?\nWhat though her figure ski up, it will no jot count mereittle",
+        "rhymes": [
+            "easy",
+            "rain",
+            "breezy",
+            "belittle"
+        ],
+        "url": "https://farm6.staticflickr.com/5045/5309676862_88b4e7d968.jpg"
+    },
+    {
+        "id": 61,
+        "img_labels": {
+            "objects": [
+                "sky",
+                "earth",
+                "tree"
+            ],
+            "scenes": [
+                "days",
+                "time",
+                "heart"
+            ],
+            "sentiments": [
+                "great",
+                "green",
+                "own"
+            ]
+        },
+        "poem": "Then was the time that he was great\nwhen this famous Holy-day,\nCame upon them by chance, and they rhy'd\nwhich greatly troubled was:But now from the devouring of the Roast",
+        "rhymes": [
+            "great",
+            "Day",
+            "rhyme",
+            "astray"
+        ],
+        "url": "https://farm2.staticflickr.com/1200/1228922872_e09209798d.jpg"
+    },
+    {
+        "id": 62,
+        "img_labels": {
+            "objects": [
+                "wind",
+                "light",
+                "rain"
+            ],
+            "scenes": [
+                "night",
+                "morning",
+                "eyes"
+            ],
+            "sentiments": [
+                "many",
+                "good",
+                "golden"
+            ]
+        },
+        "poem": "SATAN, to save you from Judas Halcation,\nKnow when the Sun goes up, and early Morning;\nYou are apt to lose your Wives by ConHalation\nThen Hey Boys be sounding of Warning.",
+        "rhymes": [
+            "halcyon",
+            "morning",
+            "halcion",
+            "warning"
+        ],
+        "url": "https://farm9.staticflickr.com/8146/7399167288_567e074389.jpg"
+    },
+    {
+        "id": 63,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "grass",
+                "rain"
+            ],
+            "scenes": [
+                "eyes",
+                "dark",
+                "heart"
+            ],
+            "sentiments": [
+                "own",
+                "great",
+                "good"
+            ]
+        },
+        "poem": "and the hils and the groves with shaddows of rain,\nDid shew how the force of her eyes\ncould cause whole troops of troops to separation",
+        "rhymes": [
+            "rain",
+            "eyes",
+            "apart",
+            "improvise"
+        ],
+        "url": "https://thepoetryofphotography.files.wordpress.com/2016/10/091915.jpg"
+    },
+    {
+        "id": 64,
+        "img_labels": {
+            "objects": [
+                "sky",
+                "wind",
+                "tree"
+            ],
+            "scenes": [
+                "dark",
+                "day",
+                "time"
+            ],
+            "sentiments": [
+                "bright",
+                "long",
+                "green"
+            ]
+        },
+        "poem": "I stept into a hollow Tree,\nrode swiftly by the wind;\nAnd ran thro the middle of the bare bip\nin desperate peril thick and thin.",
+        "rhymes": [
+            "tree",
+            "wind",
+            "bip",
+            "thinned"
+        ],
+        "url": "https://connetta.files.wordpress.com/2011/01/2131219744_4028bc839c_z.jpg"
+    },
+    {
+        "id": 65,
+        "img_labels": {
+            "objects": [
+                "sun",
+                "trees",
+                "leaves"
+            ],
+            "scenes": [
+                "love",
+                "night",
+                "morning"
+            ],
+            "sentiments": [
+                "old",
+                "great",
+                "little"
+            ]
+        },
+        "poem": "and deck thee with lovely Leaves.\nIse have a heart of Love,\nith midst of all the world's hate my love;\nOn Beds of sweet Roses wee'l shove",
+        "rhymes": [
+            "leaves",
+            "misperceives",
+            "love",
+            "shove"
+        ],
+        "url": "https://farm3.staticflickr.com/2607/4196985173_b6086c5cef.jpg"
+    },
+    {
+        "id": 66,
+        "img_labels": {
+            "objects": [
+                "wind",
+                "soul",
+                "sun"
+            ],
+            "scenes": [
+                "day",
+                "days",
+                "life"
+            ],
+            "sentiments": [
+                "bright",
+                "long",
+                "golden"
+            ]
+        },
+        "poem": "AS I was walking on a Summers day,\nUnto my Closet I chanced to Rimmer;Who grow'd as meer as the stroak shander;\nUnknown to me, who gaz'd at the Moonlight",
+        "rhymes": [
+            "daylight",
+            "meander",
+            "moonlight",
+            "halcion"
+        ],
+        "url": "https://farm4.staticflickr.com/3181/2825170207_9ddf02867f.jpg"
+    },
+    {
+        "id": 67,
+        "img_labels": {
+            "objects": [
+                "grass",
+                "sky",
+                "rain"
+            ],
+            "scenes": [
+                "morning",
+                "love",
+                "life"
+            ],
+            "sentiments": [
+                "old",
+                "good",
+                "own"
+            ]
+        },
+        "poem": "Then follow my kind exhortation, love your passion,\nand I will teach you a thing that will do you good.\nLeave off your snares, you spruce and dainty Corning\nfor Im a little afraid you will be made a Robin Hood;",
+        "rhymes": [
+            "passion",
+            "good",
+            "corning",
+            "hood"
+        ],
+        "url": "https://farm1.staticflickr.com/41/79810690_1623b16259.jpg"
+    },
+    {
+        "id": 68,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "light",
+                "soul"
+            ],
+            "scenes": [
+                "morning",
+                "night",
+                "love"
+            ],
+            "sentiments": [
+                "many",
+                "good",
+                "great"
+            ]
+        },
+        "poem": "I walked forth on my Morning;\nWhere I saw many,\nEach one with a mournful mourning\nTheir little Children stand in the Light.",
+        "rhymes": [
+            "morning",
+            "many",
+            "mourning",
+            "light"
+        ],
+        "url": "https://farm8.staticflickr.com/7007/6432861685_82c81cd203.jpg"
+    },
+    {
+        "id": 69,
+        "img_labels": {
+            "objects": [
+                "sun",
+                "light",
+                "soul"
+            ],
+            "scenes": [
+                "heart",
+                "silence",
+                "life"
+            ],
+            "sentiments": [
+                "own",
+                "green",
+                "golden"
+            ]
+        },
+        "poem": "Faintness is the Closest Shade of Light,\nAnd the Beauty of the Sun;\nSo Pensive Parents, do not slight\nThe Child that's your Darling Dun.",
+        "rhymes": [
+            "light",
+            "sun",
+            "slight",
+            "dun"
+        ],
+        "url": "https://farm9.staticflickr.com/8047/8114093346_106f61ae33.jpg"
+    },
+    {
+        "id": 70,
+        "img_labels": {
+            "objects": [
+                "earth",
+                "sun",
+                "light"
+            ],
+            "scenes": [
+                "day",
+                "life",
+                "night"
+            ],
+            "sentiments": [
+                "green",
+                "old",
+                "many"
+            ]
+        },
+        "poem": "For if I have not a quiet life,\nI shall be marryed this day;\nBut where is he without a wife?\nsweet heart believe what Nancy",
+        "rhymes": [
+            "life",
+            "day",
+            "wife",
+            "clenney"
+        ],
+        "url": "https://thepoetryofphotography.files.wordpress.com/2016/05/041715-1.jpg"
+    },
+    {
+        "id": 71,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "sun",
+                "trees"
+            ],
+            "scenes": [
+                "days",
+                "night",
+                "love"
+            ],
+            "sentiments": [
+                "golden",
+                "many",
+                "own"
+            ]
+        },
+        "poem": "I growes in tenderies, and on the leaves\nwhich I doe adorn with my owne screw,\nThe Carpenters, who doth sellovi all thievish thieves\nand dyes worse then the Hang-man who grows mad at the Labov.",
+        "rhymes": [
+            "leaves",
+            "screw",
+            "thieves",
+            "labov"
+        ],
+        "url": "https://farm4.staticflickr.com/3774/9096731689_a96c856735.jpg"
+    },
+    {
+        "id": 72,
+        "img_labels": {
+            "objects": [
+                "wind",
+                "earth",
+                "sky"
+            ],
+            "scenes": [
+                "life",
+                "love",
+                "eyes"
+            ],
+            "sentiments": [
+                "bright",
+                "green",
+                "old"
+            ]
+        },
+        "poem": "and with a prosperous gale of wind,\nWindy-sighs will Fan the browded dolds\nwhen the weather is fair and thin;\nAt Oke there is a Deluge, and ultrasound",
+        "rhymes": [
+            "wind",
+            "old",
+            "thinned",
+            "ultrasound"
+        ],
+        "url": "https://farm6.staticflickr.com/5611/14990476123_73f0c49bf8.jpg"
+    },
+    {
+        "id": 73,
+        "img_labels": {
+            "objects": [
+                "wind",
+                "trees",
+                "light"
+            ],
+            "scenes": [
+                "life",
+                "days",
+                "love"
+            ],
+            "sentiments": [
+                "many",
+                "last",
+                "old"
+            ]
+        },
+        "poem": "by night or else by day,\nFor all my meanes I'll redrew: rewriting\nmy minde with waves of wind.\nWhen she beheld him lyes thick & thinne",
+        "rhymes": [
+            "daylight",
+            "rewrite",
+            "wind",
+            "thinned"
+        ],
+        "url": "https://farm9.staticflickr.com/8523/8496477145_b85eefe755.jpg"
+    },
+    {
+        "id": 74,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "trees",
+                "tree"
+            ],
+            "scenes": [
+                "heart",
+                "life",
+                "morning"
+            ],
+            "sentiments": [
+                "own",
+                "last",
+                "golden"
+            ]
+        },
+        "poem": "Of all these pretty Ladies leaves,\nThe Infant's must be relieved.\nThis I will do, if you leave\nYour breakfast, you must believe",
+        "rhymes": [
+            "leaves",
+            "relieves",
+            "leave",
+            "believe"
+        ],
+        "url": "https://farm3.staticflickr.com/2203/2315802254_228d4ef400.jpg"
+    },
+    {
+        "id": 75,
+        "img_labels": {
+            "objects": [
+                "trees",
+                "earth",
+                "sky"
+            ],
+            "scenes": [
+                "day",
+                "heart",
+                "eyes"
+            ],
+            "sentiments": [
+                "good",
+                "last",
+                "bright"
+            ]
+        },
+        "poem": "I feard I should behold her squinting eyes,\nWhich like two Azarias beams are glimmering in the sky\nFor joy I think her finest Silks and Sattens are buying\nTis she stood in need of no more Excitement, and she bought",
+        "rhymes": [
+            "eyes",
+            "sky",
+            "buys",
+            "hi-fi"
+        ],
+        "url": "https://farm4.staticflickr.com/3529/3255889554_89ca4cfa45.jpg"
+    },
+    {
+        "id": 76,
+        "img_labels": {
+            "objects": [
+                "water",
+                "wind",
+                "clouds"
+            ],
+            "scenes": [
+                "eyes",
+                "dark",
+                "night"
+            ],
+            "sentiments": [
+                "hard",
+                "little",
+                "old"
+            ]
+        },
+        "poem": "The Moon it grew, and it brought it out in dark,\nI grew out of frame and my age is old;\nThy head it began to support it's head was turned bark\nThen I slipstream thought I see it roll'd",
+        "rhymes": [
+            "dark",
+            "Old",
+            "bark",
+            "rolled"
+        ],
+        "url": "https://farm1.staticflickr.com/123/330759083_2ef50bd3b8.jpg"
+    },
+    {
+        "id": 77,
+        "img_labels": {
+            "objects": [
+                "soul",
+                "rain",
+                "wind"
+            ],
+            "scenes": [
+                "days",
+                "night",
+                "heart"
+            ],
+            "sentiments": [
+                "long",
+                "little",
+                "golden"
+            ]
+        },
+        "poem": "I chanced to meet with a Mander;\nwho was in this wise in Candle-corse\nHe lived not very short,\nbut Lord-Mayor of a great City-",
+        "rhymes": [
+            "meander",
+            "candor",
+            "short",
+            "transport"
+        ],
+        "url": "https://farm1.staticflickr.com/33/100565967_71ddedd4e0.jpg"
+    },
+    {
+        "id": 78,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "trees",
+                "grass"
+            ],
+            "scenes": [
+                "day",
+                "eyes",
+                "night"
+            ],
+            "sentiments": [
+                "golden",
+                "last",
+                "old"
+            ]
+        },
+        "poem": "Then down I vail'd her at last,\nAnd forcd her to give a Mass.\nI prithee be not in the Grass,",
+        "rhymes": [
+            "last",
+            "mass",
+            "grass",
+            "crass"
+        ],
+        "url": "https://farm7.staticflickr.com/6042/6293019720_590fb88423.jpg"
+    },
+    {
+        "id": 79,
+        "img_labels": {
+            "objects": [
+                "trees",
+                "flower",
+                "wind"
+            ],
+            "scenes": [
+                "time",
+                "day",
+                "nature"
+            ],
+            "sentiments": [
+                "golden",
+                "old",
+                "last"
+            ]
+        },
+        "poem": "And some that can see the Wood from the Trees,\nSay, it was for their Tryal, that in time\nAll our Pleasures may be taken, and the Decontrol\nOf Birds, whose quaint names as well as their Rime",
+        "rhymes": [
+            "trees",
+            "time",
+            "decontrolled",
+            "rime"
+        ],
+        "url": "https://farm1.staticflickr.com/108/262359238_1dd48cd678.jpg"
+    },
+    {
+        "id": 80,
+        "img_labels": {
+            "objects": [
+                "sky",
+                "light",
+                "trees"
+            ],
+            "scenes": [
+                "dark",
+                "eyes",
+                "day"
+            ],
+            "sentiments": [
+                "bright",
+                "good",
+                "own"
+            ]
+        },
+        "poem": "He was in the midst of the day,\nwith the twinkling of his eyes;\nThe holly and sweet Cherry- Cafe\ncame soaring up to the Sky;.",
+        "rhymes": [
+            "day",
+            "eyes",
+            "cafe",
+            "sky's"
+        ],
+        "url": "https://farm4.staticflickr.com/3358/3672237079_758e4254ee.jpg"
+    },
+    {
+        "id": 81,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "flowers",
+                "bee"
+            ],
+            "scenes": [
+                "life",
+                "love",
+                "day"
+            ],
+            "sentiments": [
+                "green",
+                "golden",
+                "great"
+            ]
+        },
+        "poem": "which is both rich and golden.\nThe Queene of love, that doth like the bee,\nWith her who knows not that she is scold\nIn fields of pleasance, and pleasures that are rife",
+        "rhymes": [
+            "golden",
+            "bee",
+            "olden",
+            "rife"
+        ],
+        "url": "https://farm1.staticflickr.com/217/499256760_76ab8b54ae.jpg"
+    },
+    {
+        "id": 82,
+        "img_labels": {
+            "objects": [
+                "snow",
+                "sky",
+                "road"
+            ],
+            "scenes": [
+                "day",
+                "time",
+                "days"
+            ],
+            "sentiments": [
+                "old",
+                "own",
+                "bright"
+            ]
+        },
+        "poem": "the usher of the day,\nAnd like a true Cramp, she seem'd to be full of Matriche\nand walk'd with a gopping spree on the Road.\nHer weighty heavy Cask, full to th' weightUnload'd, and load'd",
+        "rhymes": [
+            "day",
+            "cliche",
+            "road",
+            "unload"
+        ],
+        "url": "https://farm7.staticflickr.com/6005/5925873229_0f1be44ef9.jpg"
+    },
+    {
+        "id": 83,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "sun",
+                "soul"
+            ],
+            "scenes": [
+                "love",
+                "morning",
+                "time"
+            ],
+            "sentiments": [
+                "green",
+                "golden",
+                "great"
+            ]
+        },
+        "poem": "You Ladies of the Green,\nCome let us to Church, and to the dean\nthere's none that doth love.\nO be not sad, thought the king, but above",
+        "rhymes": [
+            "green",
+            "dean",
+            "love",
+            "above"
+        ],
+        "url": "https://farm4.staticflickr.com/3236/3138972848_ff9af24c26.jpg"
+    },
+    {
+        "id": 84,
+        "img_labels": {
+            "objects": [
+                "sun",
+                "earth",
+                "tree"
+            ],
+            "scenes": [
+                "love",
+                "days",
+                "day"
+            ],
+            "sentiments": [
+                "green",
+                "golden",
+                "little"
+            ]
+        },
+        "poem": "I was their Rul, that Day;\nAnd God sent them to Will Stutly's\nFor my Damn'd Brother Jacob.\nO! how many more betray'd",
+        "rhymes": [
+            "day",
+            "days",
+            "rahman's",
+            "betrays"
+        ],
+        "url": "https://farm5.staticflickr.com/4104/5410075327_318de9620d.jpg"
+    },
+    {
+        "id": 85,
+        "img_labels": {
+            "objects": [
+                "flowers",
+                "light",
+                "wind"
+            ],
+            "scenes": [
+                "love",
+                "morning",
+                "days"
+            ],
+            "sentiments": [
+                "many",
+                "old",
+                "last"
+            ]
+        },
+        "poem": "Just when he thought he had gotten the day,\nthe Chamber-door was opened, the night apr'\nAnd down the stairs the young Squire did pivot hisquet\nhis staff and his horn did Lisence Bite;",
+        "rhymes": [
+            "Day",
+            "aurora",
+            "parquet",
+            "bite"
+        ],
+        "url": "https://farm8.staticflickr.com/7224/7149597481_566fde0aaf.jpg"
+    },
+    {
+        "id": 86,
+        "img_labels": {
+            "objects": [
+                "sky",
+                "light",
+                "snow"
+            ],
+            "scenes": [
+                "eyes",
+                "morning",
+                "time"
+            ],
+            "sentiments": [
+                "own",
+                "many",
+                "bright"
+            ]
+        },
+        "poem": "to and fro am pitch,\nAnd to let you in clip\nif that you could chuse not to be pestilent, your Magick-Witch\nI'd have you rest yourself fit and 'trep'",
+        "rhymes": [
+            "pitch",
+            "clip",
+            "itch",
+            "ventre"
+        ],
+        "url": "https://farm9.staticflickr.com/8483/8262272240_9c00c0075a.jpg"
+    },
+    {
+        "id": 87,
+        "img_labels": {
+            "objects": [
+                "grass",
+                "sun",
+                "flower"
+            ],
+            "scenes": [
+                "time",
+                "dark",
+                "morning"
+            ],
+            "sentiments": [
+                "good",
+                "green",
+                "last"
+            ]
+        },
+        "poem": "and the dew was sweet on the grass,\nI wept and I mourned for want of good\nfor I had lost my way and my good K-\nBy degrees I clim'd until I could",
+        "rhymes": [
+            "grass",
+            "good",
+            "kime",
+            "could"
+        ],
+        "url": "https://farm1.staticflickr.com/107/303585065_e5dcb11ca8.jpg"
+    },
+    {
+        "id": 88,
+        "img_labels": {
+            "objects": [
+                "wind",
+                "flower",
+                "rain"
+            ],
+            "scenes": [
+                "night",
+                "morning",
+                "days"
+            ],
+            "sentiments": [
+                "many",
+                "green",
+                "bright"
+            ]
+        },
+        "poem": "that ushers in the morning bright,\nHow shall I fare like the rest, who by many\nfain would do as they please the upright?\nI'll give thee a sweet Grecian thy mouth",
+        "rhymes": [
+            "bright",
+            "many",
+            "upright",
+            "sachet"
+        ],
+        "url": "https://farm5.staticflickr.com/4039/4649157260_221fb33a93.jpg"
+    },
+    {
+        "id": 89,
+        "img_labels": {
+            "objects": [
+                "sun",
+                "trees",
+                "light"
+            ],
+            "scenes": [
+                "days",
+                "eyes",
+                "love"
+            ],
+            "sentiments": [
+                "many",
+                "bright",
+                "golden"
+            ]
+        },
+        "poem": "to God night and day,\nWith tears and mournefull eyes\nour sorrows to pay.\nNAy more in solemn terms implies",
+        "rhymes": [
+            "day",
+            "eyes",
+            "pay",
+            "implies"
+        ],
+        "url": "https://farm1.staticflickr.com/13/18317672_39898fd6d3.jpg"
+    },
+    {
+        "id": 90,
+        "img_labels": {
+            "objects": [
+                "rain",
+                "light",
+                "trees"
+            ],
+            "scenes": [
+                "life",
+                "love",
+                "eyes"
+            ],
+            "sentiments": [
+                "great",
+                "last",
+                "little"
+            ]
+        },
+        "poem": "to lead a wedded life.\nWhen the storms and tempest rain,\ncold or warm, take a Knife;\nIn direful sort how it should sound Melcherd wha-",
+        "rhymes": [
+            "life",
+            "rain",
+            "knife",
+            "belittle"
+        ],
+        "url": "https://farm1.staticflickr.com/56/164619844_683b754b99.jpg"
+    },
+    {
+        "id": 91,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "snow",
+                "light"
+            ],
+            "scenes": [
+                "morning",
+                "heart",
+                "life"
+            ],
+            "sentiments": [
+                "old",
+                "great",
+                "own"
+            ]
+        },
+        "poem": "Then (quoth the old Man) my grief is great,\nFor I have lost my dearest Life;\nYou look as though you had the P equate,\nOh poor Winter!",
+        "rhymes": [
+            "great",
+            "lifetime",
+            "equate",
+            "wintertime"
+        ],
+        "url": "https://farm6.staticflickr.com/5543/10543527425_0ae1fbf561.jpg"
+    },
+    {
+        "id": 92,
+        "img_labels": {
+            "objects": [
+                "rain",
+                "sky",
+                "sun"
+            ],
+            "scenes": [
+                "summer",
+                "day",
+                "dark"
+            ],
+            "sentiments": [
+                "golden",
+                "own",
+                "old"
+            ]
+        },
+        "poem": "And I'm up to speed, to stay the Winter old,\nif that the said Pimp, with his pitch, shall have a pitch.\nIf this Pitch be so good as the one that I sold;\ngood Faith may the haughty Begger hold",
+        "rhymes": [
+            "old",
+            "pitch",
+            "sold",
+            "hold"
+        ],
+        "url": "https://farm6.staticflickr.com/5289/5281985511_00d5471a85.jpg"
+    },
+    {
+        "id": 93,
+        "img_labels": {
+            "objects": [
+                "sky",
+                "leaves",
+                "rain"
+            ],
+            "scenes": [
+                "love",
+                "eyes",
+                "night"
+            ],
+            "sentiments": [
+                "own",
+                "golden",
+                "good"
+            ]
+        },
+        "poem": "and mow down the leaves,\nAnd there we'l lye till eight o'clock at night\nthe Moon by us shall clearly perceive\nThen up rose the Shepheard Guy,",
+        "rhymes": [
+            "leaves",
+            "night",
+            "perceives",
+            "guys'"
+        ],
+        "url": "https://farm4.staticflickr.com/3105/2902221113_ec4cfe8d3d.jpg"
+    },
+    {
+        "id": 94,
+        "img_labels": {
+            "objects": [
+                "trees",
+                "leaves",
+                "wind"
+            ],
+            "scenes": [
+                "eyes",
+                "days",
+                "love"
+            ],
+            "sentiments": [
+                "great",
+                "last",
+                "own"
+            ]
+        },
+        "poem": "O the Oak, the Ash, and the bonny Ivy Tree,\ndoth all at once to help the life of the wind;\nLike to a Souldier, I plow and have the Pavy Nav\nuntill I have quite Enrouted.",
+        "rhymes": [
+            "tree",
+            "wind",
+            "nav",
+            "entwined"
+        ],
+        "url": "https://farm7.staticflickr.com/6180/6151368381_41882c34de.jpg"
+    },
+    {
+        "id": 95,
+        "img_labels": {
+            "objects": [
+                "earth",
+                "sun",
+                "trees"
+            ],
+            "scenes": [
+                "time",
+                "heart",
+                "life"
+            ],
+            "sentiments": [
+                "many",
+                "little",
+                "bright"
+            ]
+        },
+        "poem": "Whose Judgement is without an Sentence,\nSick in Mind, and Hungry in Habit, repentance\nSun, on Sun, will show no pity, or the Sun\nWhen Countrey-Calves are like to expire the Nile.",
+        "rhymes": [
+            "sentence",
+            "repentance",
+            "sunshine",
+            "turpentine"
+        ],
+        "url": "https://farm3.staticflickr.com/2258/2281406871_b58ef0eaf9.jpg"
+    },
+    {
+        "id": 96,
+        "img_labels": {
+            "objects": [
+                "rain",
+                "wind",
+                "trees"
+            ],
+            "scenes": [
+                "love",
+                "heart",
+                "life"
+            ],
+            "sentiments": [
+                "many",
+                "bright",
+                "great"
+            ]
+        },
+        "poem": "The Woods and Weather most brightly\nfull many a Rain,\nWent from their Loves, and left their Syllabuff\nunto their Stomachs-inhumane.",
+        "rhymes": [
+            "brightly",
+            "rain",
+            "streiff",
+            "inhumane"
+        ],
+        "url": "https://farm1.staticflickr.com/1/834632_4b7f4052be.jpg"
+    },
+    {
+        "id": 97,
+        "img_labels": {
+            "objects": [
+                "grass",
+                "flower",
+                "sky"
+            ],
+            "scenes": [
+                "morning",
+                "life",
+                "dark"
+            ],
+            "sentiments": [
+                "many",
+                "green",
+                "little"
+            ]
+        },
+        "poem": "E'er I from thee would toss,\nand daunce to the Sky;\nBut when cruel  she did stark\nmy fainting spirits ally.",
+        "rhymes": [
+            "toss",
+            "sky",
+            "stark",
+            "ally"
+        ],
+        "url": "https://farm4.staticflickr.com/3045/2722690037_5b384ed419.jpg"
+    },
+    {
+        "id": 98,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "grass",
+                "wind"
+            ],
+            "scenes": [
+                "time",
+                "life",
+                "morning"
+            ],
+            "sentiments": [
+                "green",
+                "many",
+                "bright"
+            ]
+        },
+        "poem": "SATAN, to sweep thy Oatssiles and Leaves,\nBefore it was Wet in the Morning.\nDick. And yet if GEORGE don't yeek me Bree, Bree?\nMy Nanny Oars are all warning;",
+        "rhymes": [
+            "leaves",
+            "morning",
+            "kiehne",
+            "warning"
+        ],
+        "url": "https://farm5.staticflickr.com/4036/4443457293_cb06366b49.jpg"
+    },
+    {
+        "id": 99,
+        "img_labels": {
+            "objects": [
+                "tree",
+                "sky",
+                "sun"
+            ],
+            "scenes": [
+                "time",
+                "heart",
+                "morning"
+            ],
+            "sentiments": [
+                "golden",
+                "little",
+                "many"
+            ]
+        },
+        "poem": "But yet I must tell thee, Time,\nwhen you mean to dine with us dame Latour,?\nIt grieves my Heart-strings that I am so prosperous;\nand like the Wood-Nymph, resolv'd to be Homosexual.",
+        "rhymes": [
+            "time",
+            "rime",
+            "prosperous",
+            "heterosporous"
+        ],
+        "url": "https://farm3.staticflickr.com/2258/2281406871_b58ef0eaf9.jpg"
+    },
+    {
+        "id": 100,
+        "img_labels": {
+            "objects": [
+                "leaves",
+                "sun",
+                "wind"
+            ],
+            "scenes": [
+                "silence",
+                "life",
+                "day"
+            ],
+            "sentiments": [
+                "good",
+                "old",
+                "last"
+            ]
+        },
+        "poem": "When ten yeeres woe was past at last,\nwith sighs and tears in most piteous con-\nrous'd aye, we thinke it is the day\nYet still she strugle'd, shake'd and shook her clay.",
+        "rhymes": [
+            "last",
+            "crass",
+            "day",
+            "clay"
+        ],
+        "url": "https://farm2.staticflickr.com/1143/1471324605_62948b0ca7.jpg"
+    }
+]
